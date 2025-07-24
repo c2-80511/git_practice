@@ -1,2 +1,0 @@
-This is just a demo file.
-my new line added to file1.txt
